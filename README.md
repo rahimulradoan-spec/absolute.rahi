@@ -18,8 +18,8 @@
 
 | Domain | Tools & Technologies |
 | :--- | :--- |
-| **Development** | C, C++, JavaScript, Python, Git, GitHub | [ Still learning ]
-| **Motion & 3D** | Blender, Cinema 4D, After Effects |
+| **Development** | C, C++, Python [ on progress ], Git, GitHub |
+| **Motion & 3D** | Blender,  After Effects |
 | **Video Editing** | Premiere Pro, DaVinci Resolve, After Effects |
 
 ---
