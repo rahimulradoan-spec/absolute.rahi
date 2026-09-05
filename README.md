@@ -32,6 +32,6 @@ I build clean, scalable code and craft high-impact visual experiences. My work s
 ---
 
 ### 📬 Connect With Me
-- **Facebook:** [your-portfolio-link.com](https://www.facebook.com/rahimul.radoan11)
-- **Instagram:** [linkedin.com/in/yourprofile](https://www.instagram.com/absolute.rahi/?hl=en)
-- **Email:** [your.email@example.com](mailto:rahimulradoan@gmail.com)
+- **Facebook:** [Rahimul Islam](https://www.facebook.com/rahimul.radoan11)
+- **Instagram:** [absolute.rahi](https://www.instagram.com/absolute.rahi/?hl=en)
+- **Email:** [Gmail](mailto:rahimulradoan@gmail.com)
