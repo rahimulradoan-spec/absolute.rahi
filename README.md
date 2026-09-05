@@ -1,9 +1,9 @@
 # ***absolute.rahi***
 # Hi there, I'm Rahimul Islam ( radoan ) 👋
 
-Software Engineer | Motion Designer | 3D & Video Artist
+*Software Engineer | Motion Designer | 3D & Video Artist
 
-I build clean, scalable code and craft high-impact visual experiences. My work sits at the intersection of engineering logic and creative motion design.
+I build clean, scalable code and craft high-impact visual experiences. My work sits at the intersection of engineering logic and creative motion design.*
 
 ---
 
