@@ -18,7 +18,6 @@
 
 | Domain | Tools & Technologies |
 | :--- | :--- |
-
 | **Motion & 3D** | Blender,  After Effects |
 | **Video Editing** | Premiere Pro, DaVinci Resolve, After Effects |
 
