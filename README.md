@@ -18,6 +18,7 @@
 
 | Domain | Tools & Technologies |
 | :--- | :--- |
+| **Web Design** | VS Code |
 | **Motion & 3D** | Blender,  After Effects |
 | **Video Editing** | Premiere Pro, DaVinci Resolve, After Effects |
 
